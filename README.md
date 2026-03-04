@@ -1793,6 +1793,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/open-interpreter">github</a></p>
 </div>
 
+### OpenClaw
+<div><a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>OpenClaw is an open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents. It supports multi-channel messaging (Signal, Telegram, Discord, WhatsApp, Slack), cron scheduling, memory/knowledge systems, MCP integration, skill plugins, sub-agent spawning, browser automation, and node pairing for IoT</p>
+
+<p><a href="https://github.com/openclaw/openclaw">github</a> | <a href="https://openclaw.ai">website</a> | <a href="https://docs.openclaw.ai">docs</a> | <a href="https://discord.com/invite/clawd">discord</a></p>
+</div>
+
 ### OpenAGI
 <div><a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2,175 stars (Updated: 2025-07-30)</p>
